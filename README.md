@@ -1,1 +1,1 @@
-# final-project
+This project is a simple HTML web page that provides an introduction to myself, Saiteja, and showcases some of my favorite foods, achievements, and more personal information. The page includes various HTML elements and attributes to display the content effectively.
